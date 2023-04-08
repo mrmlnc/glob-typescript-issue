@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "glob": "^9.3.4",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "start": "tsc"
+  }
+}
